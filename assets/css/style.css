@@ -1,0 +1,29 @@
+*
+code {
+  background: #4aaaa5;
+  border-radius: 6px;
+  color: #777777;
+  display: block;
+  font-family: 'Georgia' Times, Times New Roman, serif;
+  padding: 24px 15px;
+  text-align: center;
+}
+header,
+section,
+aside,
+footer {
+  margin: 0 1.5% 24px 1.5%;
+}
+section {
+  float: left;
+  width: 63%;
+}
+aside {
+  float: right;
+  width: 30%;
+}
+footer {
+  background-color: #666666;
+  clear: both;
+  margin-bottom: 0;
+}
