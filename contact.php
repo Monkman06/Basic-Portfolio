@@ -1,1 +1,1 @@
-<?php require("contact.html"); ?>
+<?php include_once("contact.html"); ?>

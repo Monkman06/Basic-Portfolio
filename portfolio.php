@@ -1,1 +1,1 @@
-<?php require("portfolio.html"); ?>
+<?php include_once("portfolio.html"); ?>
